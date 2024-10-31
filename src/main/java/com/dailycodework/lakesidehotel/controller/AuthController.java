@@ -45,6 +45,7 @@ public class AuthController {
         }
     }
 
+
     @PostMapping("/login")
     public ResponseEntity<?> authenticateUser(@Valid @RequestBody LoginRequest request){
         Authentication authentication =
