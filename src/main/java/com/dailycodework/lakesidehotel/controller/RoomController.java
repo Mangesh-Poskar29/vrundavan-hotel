@@ -30,7 +30,7 @@ import java.util.Optional;
 /**
  * @author Simpson Alfred
  */
-@CrossOrigin
+@CrossOrigin("https://vrundavan-hotel-guhagar.netlify.app/")
 @RestController
 @RequiredArgsConstructor
 @RequestMapping("/rooms")

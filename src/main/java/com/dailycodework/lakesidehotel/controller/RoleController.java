@@ -17,7 +17,7 @@ import static org.springframework.http.HttpStatus.FOUND;
 /**
  * @author Simpson Alfred
  */
-@CrossOrigin
+@CrossOrigin("https://vrundavan-hotel-guhagar.netlify.app/")
 @RestController
 @RequestMapping("/roles")
 @RequiredArgsConstructor

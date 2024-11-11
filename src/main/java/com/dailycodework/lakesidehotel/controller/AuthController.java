@@ -25,7 +25,7 @@ import java.util.List;
 /**
  * @author Simpson Alfred
  */
-@CrossOrigin
+@CrossOrigin("https://vrundavan-hotel-guhagar.netlify.app/")
 @RestController
 @RequestMapping("/auth")
 @RequiredArgsConstructor
